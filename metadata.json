@@ -1,0 +1,6 @@
+{
+  "name": "SmartOCR AI",
+  "description": "An intelligent full-stack AI-powered Handwritten Text Recognition (HTR) and OCR web application capable of recognizing characters, words, sentences, and multi-line documents from scans and interactive canvas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
